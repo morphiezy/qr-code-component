@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor - QR CODE](https://www.frontendmentor.io/solutions/react-qr-code-component-using-tailwind-css-ikvawY5IrM)
+- Live Site URL: [QR CODE by Vercel](https://frontend-mentor-qr-code-phi.vercel.app/)
 
 ## My process
 
@@ -39,6 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://reactjs.org/) - CSS Framework
 - [Vite](https://vitejs.dev/) - Building Tools & Bundler
+- [Vercel](https://vercel.com/) - PaaS
 
 
 ### What I learned
